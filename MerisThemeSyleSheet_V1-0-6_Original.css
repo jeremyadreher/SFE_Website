@@ -67,10 +67,6 @@ Meris Wordpress theme is released under the terms of GNU GPL.
         -ms-text-size-adjust:     100%;
     }
     
-    .button {
-        display: inline-block;
-    }
-    
     body,
     button,
     input,
@@ -1962,7 +1958,7 @@ Meris Wordpress theme is released under the terms of GNU GPL.
       border-width: 2px 2px 0px 2px;
     border-color: #d0d0d0;
     border-style: solid;
-    background-image: url("//www.sproutcreativemedia.com/wp-content/uploads/2014/10/BrushedMetalBack1-Oct24.jpg");
+    background-image: url("http://www.sproutcreativemedia.com/wp-content/uploads/2014/10/BrushedMetalBack1-Oct24.jpg");
     float:left;
     }
     
