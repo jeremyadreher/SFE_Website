@@ -1935,9 +1935,9 @@ Meris Wordpress theme is released under the terms of GNU GPL.
     margin-right: auto;
     margin-top: 50px;
     opacity: 1;
-    /* border: 2px;
+    border: 2px;
     border-style: solid;
-    border-color: rgba(0,110,46,.75); */
+    border-color: rgba(0,110,46,.75);
     }
     }
     
@@ -1950,7 +1950,7 @@ Meris Wordpress theme is released under the terms of GNU GPL.
     margin-right: auto;
     margin-top: 50px;
     opacity: 1;
-    /* border-color: rgba(0,110,46,.75); */
+    border-color: rgba(0,110,46,.75);
     }
     }
     
